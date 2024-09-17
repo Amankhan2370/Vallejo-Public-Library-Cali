@@ -1,1 +1,1 @@
-1
+This assignment will allow you to use the techniques explored in class to structure a website with a complex data structure and dynamic (app-like) capabilities. It also challenges you to utilize semantic HTML to appropriately describe the information within a single page. Both are vital skills to learn when creating websites and web-based apps.
